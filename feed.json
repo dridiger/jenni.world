@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://dridiger.github.io/jenni.world/erstmal-warmwerden/",
+            "url": "https://dridiger.github.io/jenni.world/erstmal-warmwerden/",
+            "title": "Erstmal warmwerden",
+            "summary": "Zwischenzeitlich waren wir noch bei einem anderen Wohnwagen-Händler und haben uns dort&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Zwischenzeitlich waren wir noch bei einem anderen Wohnwagen-Händler und haben uns dort umgeschaut und beraten lassen. Soviel Informationen wie möglich aufsaugen! Dort haben wir auch ein aufgebautes Camplet bestaunen können - kennst du so etwas? Auf den ersten Blick hat es uns sehr gut gefallen von der der Idee. Es ist wohl recht einfach im Aufbau und bietet 2 Schlafkabinen. Uns hat es jedoch an weiterem Komfort gefehlt - Stauraum z. B. war einfach mal fast keiner vorhanden.</span></p>\n<p><span style=\"font-weight: 400;\">Wir haben lange hin und her gedacht wie es nun für uns weitergehen soll, und kamen zu dem Schluss, dass es Sinn macht, erstmal ein Fahrgefühl für ein Gespann zu bekommen. Ich mein, was bringt es denn, wenn wir uns einen Wohnwagen zu legen - ob nun gemietet oder gekauft - und dann uns und unsere Mitmenschen auf der Straße gefährden, weil wir absolut kein Gefühl haben mit einem Anhängsel zu fahren? Nein, das finden wir verantwortungslos. So hörten und schauten wir uns um, und bekamen den Tipp eine Fahrschule aufzusuchen, die Fahrstunden für Pkw plus Wohnwagen anbietet. Die Fahrschule, die uns genannt wurde, war glücklicherweise keine 10 Minuten zu Fuß von uns entfernt und so nahmen wir Kontakt auf. Wir ließen uns beraten, da wir mit unserem Nissan Qashqai nur ein bestimmtes Gewicht ziehen dürfen. Mit dem Fahrschulbesitzer verblieben wir so, dass er sich meldet, sobald er freie Fahrstunden zur Verfügung hat. Derzeit ist Hauptsaison für Motorradschüler und daher viel los. Tatsächlich hat er sich im Juli einmal bei uns gemeldet, leider war dies ein ungünstiger Zeitpunkt für uns. Seitdem warten wir weiter gespannt auf seinen Anruf. Und seitdem ruhen auch unsere Reisepläne etwas. Wir haben uns online ein paar Campingplätze und interessante Videos angeschaut, jedoch macht es im Moment keinen Sinn weitere Pläne zu schmiden. Wir widmen uns einfach mal unseren anderen (Alltags) Baustellen und machen den ein oder anderen Ausflug...</span></p>",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+                   "Reiseblog"
+            ],
+            "date_published": "2021-08-17T10:14:02+02:00",
+            "date_modified": "2021-08-17T10:14:02+02:00"
+        },
+        {
             "id": "https://dridiger.github.io/jenni.world/geduld-und-plaene/",
             "url": "https://dridiger.github.io/jenni.world/geduld-und-plaene/",
             "title": "Geduld und Pläne",
@@ -22,7 +37,7 @@
                    "Gedankenwelt"
             ],
             "date_published": "2021-08-10T11:52:48+02:00",
-            "date_modified": "2021-08-10T11:52:48+02:00"
+            "date_modified": "2021-08-10T11:54:01+02:00"
         },
         {
             "id": "https://dridiger.github.io/jenni.world/auf-gefaehrtensuche/",
@@ -145,21 +160,6 @@
             ],
             "date_published": "2021-02-26T08:14:00+01:00",
             "date_modified": "2021-08-01T20:50:56+02:00"
-        },
-        {
-            "id": "https://dridiger.github.io/jenni.world/vergleiche-teil-2/",
-            "url": "https://dridiger.github.io/jenni.world/vergleiche-teil-2/",
-            "title": "Vergleiche Teil 2",
-            "summary": "\"Magst du heute das Ei schälen?\" \"Mama, macht das.\" \"Du willst eine&hellip;",
-            "content_html": "<p>\"Magst du heute das Ei schälen?\" \"Mama, macht das.\" \"Du willst eine Banane? Nimm sie dir und schäle sie.\" \"Mama, macht das.\"<br><br>In meinem Kopf rattert es. Hm, vor einem Jahr hast du bereits Eier und Bananen geschält. Was ist in der Zwischenzeit passiert? Okay, manchmal hat es nicht so gut geklappt. Aber du bist doch sonst nicht so, dass du so schnell aufgibst. In meinem Kopf rattert es weiter. Ich kenne andere Kinder, die im gleichen Alter Spaß daran hatten frisch gekochte Eier oder eine Mandarine zu schälen. Und du? Hm. Egal. Jeder ist einzigartig und anders. Ich sollte mich nicht darauf versteifen, was anderen Kinder im gleichen Alter schon alles alleine gemacht haben.<br>Vielleicht magst du einfach verwöhnt werden. Du tankst nicht nur auf, wenn wir Kuscheln, sondern eben auch, wenn ich dir Essen mundgerecht zubereite oder das ein oder andere schäle. Nie würde ich dich zwingen, dass du das gefälligst selbst zu tun hast.<br><br>\"Mama macht das.\" \"Okay, gerne.\" Und du lächelst mich an.<br><br>Hey, mit 16 muss ich dir sicher keine Banane mehr schälen. </p>\n<p> </p>",
-            "author": {
-                "name": "Jennifer Dridiger"
-            },
-            "tags": [
-                   "Gedankenwelt"
-            ],
-            "date_published": "2021-02-02T08:13:00+01:00",
-            "date_modified": "2021-08-01T20:51:06+02:00"
         }
     ]
 }
