@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Jennis Welt</title>
-    <link href="https://dridiger.github.io/jenni.world/feed.xml" rel="self" />
-    <link href="https://dridiger.github.io/jenni.world" />
-    <updated>2021-08-22T12:17:51+02:00</updated>
+    <link href="https://zartijenni.de/feed.xml" rel="self" />
+    <link href="https://zartijenni.de" />
+    <updated>2021-08-23T16:41:02+02:00</updated>
     <author>
         <name>Jennifer Dridiger</name>
     </author>
-    <id>https://dridiger.github.io/jenni.world</id>
+    <id>https://zartijenni.de</id>
 
     <entry>
         <title>Wochenendtrip</title>
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.world/wochenendtrip/"/>
-        <id>https://dridiger.github.io/jenni.world/wochenendtrip/</id>
+        <link href="https://zartijenni.de/wochenendtrip/"/>
+        <id>https://zartijenni.de/wochenendtrip/</id>
             <category term="Reisewelt"/>
 
         <updated>2021-08-22T12:17:51+02:00</updated>
@@ -39,8 +39,8 @@
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.world/trauer-in-wellen/"/>
-        <id>https://dridiger.github.io/jenni.world/trauer-in-wellen/</id>
+        <link href="https://zartijenni.de/trauer-in-wellen/"/>
+        <id>https://zartijenni.de/trauer-in-wellen/</id>
             <category term="Gedankenwelt"/>
 
         <updated>2021-08-18T10:48:37+02:00</updated>
@@ -64,8 +64,8 @@
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.world/hilflos/"/>
-        <id>https://dridiger.github.io/jenni.world/hilflos/</id>
+        <link href="https://zartijenni.de/hilflos/"/>
+        <id>https://zartijenni.de/hilflos/</id>
             <category term="Gedankenwelt"/>
 
         <updated>2021-08-21T11:06:55+02:00</updated>
@@ -85,8 +85,8 @@
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.world/erstmal-warmwerden/"/>
-        <id>https://dridiger.github.io/jenni.world/erstmal-warmwerden/</id>
+        <link href="https://zartijenni.de/erstmal-warmwerden/"/>
+        <id>https://zartijenni.de/erstmal-warmwerden/</id>
             <category term="Reisewelt"/>
 
         <updated>2021-08-21T11:10:53+02:00</updated>
@@ -107,8 +107,8 @@
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.world/geduld-und-plaene/"/>
-        <id>https://dridiger.github.io/jenni.world/geduld-und-plaene/</id>
+        <link href="https://zartijenni.de/geduld-und-plaene/"/>
+        <id>https://zartijenni.de/geduld-und-plaene/</id>
             <category term="Gedankenwelt"/>
 
         <updated>2021-08-10T11:54:01+02:00</updated>
@@ -138,24 +138,51 @@
         </content>
     </entry>
     <entry>
+        <title>Impressum</title>
+        <author>
+            <name>Jennifer Dridiger</name>
+        </author>
+        <link href="https://zartijenni.de/impressum/"/>
+        <id>https://zartijenni.de/impressum/</id>
+
+        <updated>2021-08-23T16:41:02+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Angaben gemäß § 5 TMG Jennifer Dridiger Burckhardtstr. 65 70374 Stuttgart Vertreten&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Angaben gemäß § 5 TMG</p>
+<p>Jennifer Dridiger<br>Burckhardtstr. 65<br>70374 Stuttgart</p>
+<p><strong>Vertreten durch:</strong><br>Jennifer Dridiger</p>
+<p><strong>Kontakt:</strong><br>Telefon: 0711/96892703<br>E-Mail: <a href="mailto:jennifer@dridiger.com">jennifer@dridiger.com</a></p>
+<p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>Jennifer Dridiger<br>Burckhardtstr. 65<br>70374 Stuttgart</p>
+<p><strong>Haftungsausschluss:</strong><br><br><strong>Haftung für Inhalte</strong><br><br>Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.<br><br><strong>Haftung für Links</strong><br><br>Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.<br><br><strong>Urheberrecht</strong><br><br>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.<br><br><strong>Datenschutz</strong><br><br>Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.<br>Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.<br>Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.</p>
+<p> </p>
+<div id="link">Website Impressum erstellt durch <a href="https://www.impressum-generator.de/">impressum-generator.de</a> von der <a href="https://www.kanzlei-hasselbach.de/" rel="nofollow">Kanzlei Hasselbach</a></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Auf Gefährtensuche</title>
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.world/auf-gefaehrtensuche/"/>
-        <id>https://dridiger.github.io/jenni.world/auf-gefaehrtensuche/</id>
+        <link href="https://zartijenni.de/auf-gefaehrtensuche/"/>
+        <id>https://zartijenni.de/auf-gefaehrtensuche/</id>
             <category term="Reisewelt"/>
 
         <updated>2021-08-17T10:14:44+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://dridiger.github.io/jenni.world/media/posts/33/schnecke_cut.jpg" alt="" />
+                        <img src="https://zartijenni.de/media/posts/33/schnecke_cut.jpg" alt="" />
                     Heute schauen wir uns also das erste Mal live Wohnmobile und Wohnwägen&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://dridiger.github.io/jenni.world/media/posts/33/schnecke_cut.jpg" alt="" />
+                    <img src="https://zartijenni.de/media/posts/33/schnecke_cut.jpg" alt="" />
                 <p><span style="font-weight: 400;">Heute schauen wir uns also das erste Mal live Wohnmobile und Wohnwägen an. Wir haben Glück und werden in Ruhe gelassen. Ganz entspannt entdecken wir ca. 6 verschiedene Fahrzeuge und mögliche neue Familienmitglieder. Wir inspizieren alles und machen uns schlau über Duschen, WCs, Betten, Stauraum und natürlich Preise. Die Matratzen sind zum Glück mit mit Folien geschützt, so dass wir alles durchtesten können. Zum Schluss sind wir auf jeden Fall schlauer als vorher, haben aber die ein oder andere Frage...gleichzeitig schreien unsere Mägen nach Essen und wir beschließen uns die Fragen für eine Mail aufzuheben und stattdessen lieber unser Essen zu bestellen. 6 Fahrzeuge waren definitiv genug. Ich bin überfordert mit so viel neuem Input und energielos setze ich mich ins Auto. Das Essen haben wir bereits noch auf dem Gelände der Wohnmobile und Wohnwägen bestellt und es hieß, es sei in 10 Minuten fertig. Jetzt aber hopp hopp! Das italienische Restaurant ist keine 5 Minuten entfernt. Wir holen das Essen und lassen uns auf einem nahegelegenen Spielplatz auf unserer Picknickdecke im Schatten nieder. Die beste Idee, um satt zu werden und die neuen Informationen sacken zu lassen. Wie gehen wir nun weiter vor?</span></p>
             ]]>
         </content>
@@ -165,20 +192,20 @@
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.world/der-gedanke-die-idee/"/>
-        <id>https://dridiger.github.io/jenni.world/der-gedanke-die-idee/</id>
+        <link href="https://zartijenni.de/der-gedanke-die-idee/"/>
+        <id>https://zartijenni.de/der-gedanke-die-idee/</id>
             <category term="Reisewelt"/>
 
         <updated>2021-08-01T20:49:51+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://dridiger.github.io/jenni.world/media/posts/28/IMG_20210331_193215-EFFECTS.jpg" alt="" />
+                        <img src="https://zartijenni.de/media/posts/28/IMG_20210331_193215-EFFECTS.jpg" alt="" />
                     Und da war er plötzlich - der Gedanke an ein mobiles Heim.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://dridiger.github.io/jenni.world/media/posts/28/IMG_20210331_193215-EFFECTS.jpg" alt="" />
+                    <img src="https://zartijenni.de/media/posts/28/IMG_20210331_193215-EFFECTS.jpg" alt="" />
                 <p><span style="font-weight: 400;">Und da war er plötzlich - der Gedanke an ein mobiles Heim. Angefangen hatte alles mit der Idee zu zelten und prompt hatten wir uns ein Zelt gekauft. Schnapsidee! Seit Wochen steht es unausgepackt im Karton. In der Zwischenzeit wurde nämlich aus der Zelt-Idee eine Wohnwagen/Wohnmobil-Idee. Wir dachten hin - wir dachten her - und dachten schließlich, wieso in einem Zelt übernachten, wenn auch mehr geht? Damit auf Reisen gehen - das wäre toll. Aber trauen wir uns das zu? Und was ist besser? Wohnmobil oder Wohnwagen? Mieten? Kaufen? Gebraucht oder neu? Fragen über Fragen und Gedanken über Gedanken. So kamen wir vom einen zum anderen und tauschten uns täglich aus über die Informationen, die unsere jeweiligen Recherchen ergaben. Wir waren der Meinung: Richtige Infos bekommen wir über Zeitschriften! So kaufte ich gleich 2 davon, da ich der Ansicht war: besser mehr Infos! Die eine Zeitschrift enthält Ratschläge und Tipps aller Art - Dinge, an die man sonst wohl gar nicht denken würde. Die andere ist eine Übersicht über Stellplätze für Wohnmobile - BÄM - das war doof - merkte ich daheim - denn unsere zwischenzeitliche Tendenz ging Richtung Wohnwagen und die dürfen eben nicht auf (allen) Plätzen stehen, die für Wohnmobile gedacht sind. Wie wir kürzlich erst erfuhren. Die Zeitschrift haben wir aber trotzdem mal behalten. Sie hat sicher dennoch die ein oder andere nützliche Info und manch ein Platzwart lässt einen unter Umständen und gewissen Bedingungen auch mit einem Gespann übernachten. Als nächstes steht an: Wohnwagen und Wohnmobile live besichtigen… :-)</span></p>
             ]]>
         </content>
@@ -188,8 +215,8 @@
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.world/zeit/"/>
-        <id>https://dridiger.github.io/jenni.world/zeit/</id>
+        <link href="https://zartijenni.de/zeit/"/>
+        <id>https://zartijenni.de/zeit/</id>
             <category term="Gedankenwelt"/>
 
         <updated>2021-08-01T20:49:43+02:00</updated>
@@ -211,8 +238,8 @@
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.world/sozial-ohne-kindergarten/"/>
-        <id>https://dridiger.github.io/jenni.world/sozial-ohne-kindergarten/</id>
+        <link href="https://zartijenni.de/sozial-ohne-kindergarten/"/>
+        <id>https://zartijenni.de/sozial-ohne-kindergarten/</id>
             <category term="Gedankenwelt"/>
 
         <updated>2021-08-01T20:50:02+02:00</updated>
@@ -225,28 +252,6 @@
             <![CDATA[
                 <p>"Aber so wird er nie Sozialverhalten lernen." "Er wird sich nie in einer Gruppe einfügen können." "Du kannst nur nicht loslassen." "Er braucht den Kontakt zu Gleichaltrigen."<br><br>Du gehst alleine zur 95-jährigen Nachbarin um dir Kekse zu holen, unterhälst dich wunderbar mit ihr und bringst sie zum lachen. Bei unserem 84-jährigen Nachbarn holst du dir traditionell eine Banane und ab und zu Brötchen. Den jugendlichen Nachbarsjungen grüßt du verschmitzt lächelnd mit einem "hallo" und bringst auch ihn zum grinsen. Er grüßt trotz Kopfhörer sogar zurück. Zu deinen Kumpels...1 Jahr älter, 3 Monate jünger, 1 Jahr jünger oder 6 Monate älter... sagst du "Na, komm fang mich! Komm mit Ball spielen. Na komm schon!" Die Verkäuferin an der Theke, die Kassiererin oder der Arzt...mit jedem gehst du gerne ins Gespräch und nimmst Kontakt auf. Auf deine Weise.<br><br>Und ja, wir waren und sind auch schon voneinander getrennt. Nicht nur die Tage nach der Geburt. Auch so immer wieder zwischendurch 1-2 Stunden. Oder auch mal 6. Du bist dann bei Personen, die dich liebhaben und wir freuen uns immer einander wieder zu sehen. Ich kann loslassen und freue mich, dass es dir gut geht und du kannst loslassen und dich auf etwas neues einlassen. Das ist schön.<br><br>Ich denke nicht, dass es dafür eine erzwungene Beziehung zu einer Person braucht, die dafür bezahlt wird, dich in ihrer Obhut zu haben. Oder einen Haufen Gleichaltriger, die alle noch nicht viel vom Leben wissen. Was genau sollst du denn von denen lernen? Oder eine Einrichtung, die nach Konzept handelt und nicht nach Individuum. Lernen kannst du jeden Tag. Im Alltag. Von Personen aller Altersstufen. Das ist wichtig. Das ist das wahre Leben. Draußen. Nicht in einer Einrichtung.<br><br>Aber wenn dem allem auch nicht so wäre und du genau das Gegenteil wärst...nie würde ich auf die Idee kommen, dass ein Kindergarten oder gar eine Kita die Lösung wäre.<br><br>Und solltest du eines Tages von selbst den Wunsch äußern in den Kindergarten zu wollen, werde ich dich nicht abhalten, sondern dir die Chance lassen. Du musst nämlich nicht meiner Meinung sein.</p>
 <p>Entdecke selbst die Welt. Ich bin immer für dich da.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tod</title>
-        <author>
-            <name>Jennifer Dridiger</name>
-        </author>
-        <link href="https://dridiger.github.io/jenni.world/tod/"/>
-        <id>https://dridiger.github.io/jenni.world/tod/</id>
-            <category term="Gedankenwelt"/>
-
-        <updated>2021-08-01T20:50:13+02:00</updated>
-            <summary>
-                <![CDATA[
-                    "Ist Oma wieder gesund?" "Nein, Oma ist gestorben. Sie ist nicht mehr&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>"Ist Oma wieder gesund?"<br>"Nein, Oma ist gestorben. Sie ist nicht mehr da. Sie lebt nicht mehr."<br>"Aber Opa ist noch da!"<br><br>"Wir treffen heute Opa."<br>"Ja, und Oma! Ich freu mich auf Oma!"<br>"Oma ist nicht da. Sie lebt nicht mehr."<br>"Ja, das passiert manchmal."<br><br>So einfach denken Kinder.<br><br>Ich weiß, du hast noch keine Vorstellung davon was Tod und Sterben wirklich bedeuten. Was sie wirklich für Auswirkungen haben. In deinem Alter denkst du noch Tod ist etwas, das wieder vorbei geht und Oma wieder kommt... natürlich haben wir uns schlau gemacht und heraus zu finden, was du in deinem Alter unter Sterben verstehst. Dennoch wollen wir so nah wie möglich an der Wahrheit bleiben und dich so gut es geht miteinbeziehen und nie außen vor lassen. Wir wollen, dass du aufwächst mit dem Wissen, dass der Tod zum Leben gehört. Dass man traurig sein und gleichzeitig mehrere Gefühle haben darf. Ich erkläre dir, dass ich immer noch froh und glücklich bin, dass es dich gibt. Und dass ich dennoch traurig sein kann, weil Oma nicht mehr da ist. Ich will dir das und noch so viel mehr vom Leben zeigen und dir erklären. Und wenn du jetzt, in einem Jahr oder in vielen Jahren Fragen an mich hast, will ich dir alle beantworten. Ich will dir zeigen wie schön das Leben ist, trotz aller Schicksalsschläge. Gefühle sind alle und zu jeder Zeit erlaubt!</p>
 <p> </p>
             ]]>
         </content>

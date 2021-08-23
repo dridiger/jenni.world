@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://dridiger.github.io/jenni.world/sitemap.xml
+Sitemap: https://zartijenni.de/sitemap.xml
