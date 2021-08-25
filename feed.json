@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://zartijenni.de/der-naechste-schritt/",
+            "url": "https://zartijenni.de/der-naechste-schritt/",
+            "title": "Der nächste Schritt",
+            "summary": "....und ich bin das ganze Thema angegangen… habe viel recherchiert, gelesen, mit&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">....und ich bin das ganze Thema angegangen… habe viel recherchiert, gelesen, mit anderen kommuniziert, nachgedacht und abgewogen. Durch ein bisschen Bürokratiekram, Dank lieber Ärzte, die mich ernst nehmen, und ein paar Telefonaten, konnte ich gestern meinen ersten Termin beim Psychiater wahrnehmen. Nach anfänglicher Nervosität - trotz Begleitung - habe ich mich erstaunlicherweise sehr schnell wohlgefühlt. Das lag einerseits sicher an der angenehmen Atmosphäre - Licht und Luft haben gestimmt. Auf der anderen Seite war der Mensch auf der anderen Seite des Schreibtisches mir wohl gesonnen, das habe ich gemerkt. Seine Kompetenz merkte ich an seinen zielorientierten Fragen - wir hatten nur 15 Minuten Zeit für das Erstgespräch. Wenn ich beim Erzählen ins Stocken geriet, stellte er einfach die nächste Frage und konnte so in kurzer Zeit einiges über mich erfahren. Anschließend befragte er in meinem Beisein noch meinen Mann, den er dann erst aus dem Warteraum zu uns bat. Was soll ich sagen, die wenige Zeit, die wir hatten, wurde effektiv genutzt. Ich habe einen 2. Termin erhalten, damit wir ausführlicher sprechen können und ich erhalte dann auch eine entsprechende Überweisung, um zur Diagnostik gehen zu können …  bin gerade dabei dort einen Termin zu ergattern … bin gespannt, wann der sein wird … Ziemlich erleichtert bin ich gestern aus dem Gebäude gegangen, um erstmal durchzuatmen und anschließend mit lieben Freunden im Café zu sitzen.</span></p>",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+                   "Neurodiversität"
+            ],
+            "date_published": "2021-08-25T10:25:34+02:00",
+            "date_modified": "2021-08-25T10:25:34+02:00"
+        },
+        {
             "id": "https://zartijenni.de/wochenendtrip/",
             "url": "https://zartijenni.de/wochenendtrip/",
             "title": "Wochenendtrip",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2021-06-09T10:51:00+02:00",
             "date_modified": "2021-08-01T20:49:43+02:00"
-        },
-        {
-            "id": "https://zartijenni.de/sozial-ohne-kindergarten/",
-            "url": "https://zartijenni.de/sozial-ohne-kindergarten/",
-            "title": "Sozial ohne Kindergarten?",
-            "summary": "\"Aber so wird er nie Sozialverhalten lernen.\" \"Er wird sich nie in&hellip;",
-            "content_html": "<p>\"Aber so wird er nie Sozialverhalten lernen.\" \"Er wird sich nie in einer Gruppe einfügen können.\" \"Du kannst nur nicht loslassen.\" \"Er braucht den Kontakt zu Gleichaltrigen.\"<br><br>Du gehst alleine zur 95-jährigen Nachbarin um dir Kekse zu holen, unterhälst dich wunderbar mit ihr und bringst sie zum lachen. Bei unserem 84-jährigen Nachbarn holst du dir traditionell eine Banane und ab und zu Brötchen. Den jugendlichen Nachbarsjungen grüßt du verschmitzt lächelnd mit einem \"hallo\" und bringst auch ihn zum grinsen. Er grüßt trotz Kopfhörer sogar zurück. Zu deinen Kumpels...1 Jahr älter, 3 Monate jünger, 1 Jahr jünger oder 6 Monate älter... sagst du \"Na, komm fang mich! Komm mit Ball spielen. Na komm schon!\" Die Verkäuferin an der Theke, die Kassiererin oder der Arzt...mit jedem gehst du gerne ins Gespräch und nimmst Kontakt auf. Auf deine Weise.<br><br>Und ja, wir waren und sind auch schon voneinander getrennt. Nicht nur die Tage nach der Geburt. Auch so immer wieder zwischendurch 1-2 Stunden. Oder auch mal 6. Du bist dann bei Personen, die dich liebhaben und wir freuen uns immer einander wieder zu sehen. Ich kann loslassen und freue mich, dass es dir gut geht und du kannst loslassen und dich auf etwas neues einlassen. Das ist schön.<br><br>Ich denke nicht, dass es dafür eine erzwungene Beziehung zu einer Person braucht, die dafür bezahlt wird, dich in ihrer Obhut zu haben. Oder einen Haufen Gleichaltriger, die alle noch nicht viel vom Leben wissen. Was genau sollst du denn von denen lernen? Oder eine Einrichtung, die nach Konzept handelt und nicht nach Individuum. Lernen kannst du jeden Tag. Im Alltag. Von Personen aller Altersstufen. Das ist wichtig. Das ist das wahre Leben. Draußen. Nicht in einer Einrichtung.<br><br>Aber wenn dem allem auch nicht so wäre und du genau das Gegenteil wärst...nie würde ich auf die Idee kommen, dass ein Kindergarten oder gar eine Kita die Lösung wäre.<br><br>Und solltest du eines Tages von selbst den Wunsch äußern in den Kindergarten zu wollen, werde ich dich nicht abhalten, sondern dir die Chance lassen. Du musst nämlich nicht meiner Meinung sein.</p>\n<p>Entdecke selbst die Welt. Ich bin immer für dich da.</p>\n<p> </p>",
-            "author": {
-                "name": "Jennifer Dridiger"
-            },
-            "tags": [
-                   "Gedankenwelt"
-            ],
-            "date_published": "2021-06-04T10:50:00+02:00",
-            "date_modified": "2021-08-01T20:50:02+02:00"
         }
     ]
 }
