@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://zartijenni.de/mein-abnehm-weg-teil-1/",
+            "url": "https://zartijenni.de/mein-abnehm-weg-teil-1/",
+            "title": "Mein Abnehm-Weg Teil 1",
+            "summary": "Immer wieder werde ich gefragt wie ich “das mit dem Abnehmen” denn&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Immer wieder werde ich gefragt wie ich “das mit dem Abnehmen” denn hinbekommen hätte... Anfangs wusste ich oft keine richtige Antwort darauf. Konnte ich es mir doch selbst nur schwer erklären. Ja, klar, ich hatte schon vor abzunehmen. So, 10-15 Kg, wären schon toll, dachte ich. Aber ich hätte es nicht für möglich gehalten, dass ich es wirklich wirklich schaffe, ohne Rückfälle. Und hätte mir vorher jemand gesagt, dass ich sogar mehr als 15 kg Gewicht verlieren werde, hätte ich es nicht geglaubt. </span></p>\n<p><span style=\"font-weight: 400;\">Ich hole ein bisschen aus. Die ersten Gedanken über mein Aussehen machte ich mir mit ca. 11 Jahren. Ich war körperlich leicht frühreif und interessierte mich für Jungs. Ich achtete auf meinen Kleidungsstil und meine Frisur. Was mich seit der Kindheit allerdings begleitete, war der Gedanke an meine Waden. Mir passten grundsätzlich keine Winterstiefel und Oma, Eltern und ich verzweifelten regelmäßig am Schuhkauf. Ein Kraftakt, der seinesgleichen sucht und ein Ereignis, das eigentlich schön sein sollte, endete immer im Drama. Der Glaubenssatz, dass meine Waden einfach zu stramm und kräftig seien und ich daher keine passenden Stiefel fand, verfolgte mich bis in meine 30er...</span></p>",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+                   "Gedankenwelt"
+            ],
+            "date_published": "2021-09-16T10:17:46+02:00",
+            "date_modified": "2021-09-16T10:17:46+02:00"
+        },
+        {
             "id": "https://zartijenni.de/kleiner-urlaub/",
             "url": "https://zartijenni.de/kleiner-urlaub/",
             "title": "kleiner Urlaub",
@@ -146,21 +161,6 @@
             ],
             "date_published": "2021-08-17T21:03:00+02:00",
             "date_modified": "2021-08-21T11:06:55+02:00"
-        },
-        {
-            "id": "https://zartijenni.de/erstmal-warmwerden/",
-            "url": "https://zartijenni.de/erstmal-warmwerden/",
-            "title": "Erstmal warmwerden",
-            "summary": "Zwischenzeitlich waren wir noch bei einem anderen Wohnwagen-Händler und haben uns dort&hellip;",
-            "content_html": "<p><span style=\"font-weight: 400;\">Zwischenzeitlich waren wir noch bei einem anderen Wohnwagen-Händler und haben uns dort umgeschaut und beraten lassen. Soviel Informationen wie möglich aufsaugen! Dort haben wir auch ein aufgebautes Camplet bestaunen können - kennst du so etwas? Auf den ersten Blick hat es uns sehr gut gefallen von der der Idee. Es ist wohl recht einfach im Aufbau und bietet 2 Schlafkabinen. Uns hat es jedoch an weiterem Komfort gefehlt - Stauraum z. B. war einfach mal fast keiner vorhanden.</span></p>\n<p><span style=\"font-weight: 400;\">Wir haben lange hin und her gedacht wie es nun für uns weitergehen soll, und kamen zu dem Schluss, dass es Sinn macht, erstmal ein Fahrgefühl für ein Gespann zu bekommen. Ich mein, was bringt es denn, wenn wir uns einen Wohnwagen zu legen - ob nun gemietet oder gekauft - und dann uns und unsere Mitmenschen auf der Straße gefährden, weil wir absolut kein Gefühl haben mit einem Anhängsel zu fahren? Nein, das finden wir verantwortungslos. So hörten und schauten wir uns um, und bekamen den Tipp eine Fahrschule aufzusuchen, die Fahrstunden für Pkw plus Wohnwagen anbietet. Die Fahrschule, die uns genannt wurde, war glücklicherweise keine 10 Minuten zu Fuß von uns entfernt und so nahmen wir Kontakt auf. Wir ließen uns beraten, da wir mit unserem Nissan Qashqai nur ein bestimmtes Gewicht ziehen dürfen. Mit dem Fahrschulbesitzer verblieben wir so, dass er sich meldet, sobald er freie Fahrstunden zur Verfügung hat. Derzeit ist Hauptsaison für Motorradschüler und daher viel los. Tatsächlich hat er sich im Juli einmal bei uns gemeldet, leider war dies ein ungünstiger Zeitpunkt für uns. Seitdem warten wir weiter gespannt auf seinen Anruf. Und seitdem ruhen auch unsere Reisepläne etwas. Wir haben uns online ein paar Campingplätze und interessante Videos angeschaut, jedoch macht es im Moment keinen Sinn weitere Pläne zu schmieden. Wir widmen uns einfach mal unseren anderen (Alltags) Baustellen und machen den ein oder anderen Ausflug...</span></p>",
-            "author": {
-                "name": "Jennifer Dridiger"
-            },
-            "tags": [
-                   "Reisewelt"
-            ],
-            "date_published": "2021-08-17T10:14:02+02:00",
-            "date_modified": "2021-08-21T11:10:53+02:00"
         }
     ]
 }
