@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://zartijenni.de/urlaub-vorbei/",
+            "url": "https://zartijenni.de/urlaub-vorbei/",
+            "title": "Urlaub vorbei",
+            "summary": "Und da ist er nun vorbei. Der wunderschöne Urlaub. Tolle Erinnerungen an&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Und da ist er nun vorbei. Der wunderschöne Urlaub. Tolle Erinnerungen an liebe Menschen und tolle Unternehmungen nehme ich mit nach Hause. Nach anfangs kühlem und feuchtem Herbstwetter gab es eine Wendung, so dass wir einige Tage Sonnenschein, blauen Himmel und Temperaturen von 20 - 25 Grad hatten. Wir lernten neue Orte kennen, begegneten interessanten Tieren und verbrachten Zeit mit Lieblingsmenschen und einem Lieblingshund. Wir waren in belebten Orten und verzogen uns auch mal in den Wald zur absoluten Ruhe. Wir shoppten und spazierten und genossen die Zeit als Familie. Für uns gibt es nichts schöneres als zusammen viel Zeit zu verbringen. Manchmal nur zu sein, manchmal Alltags-Dinge zu machen und manchmal tolle Ausflüge zu erleben. Natürlich bleiben die ein oder anderen Wehwehchen nicht aus, aber man kann es sich so schön wie möglich machen. Wir haben die Zeit jedenfalls sehr genossen und können es kaum abwarten bald wieder das schöne Saarland zu bereisen.</span></p>",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+                   "Reisewelt"
+            ],
+            "date_published": "2021-09-25T20:30:40+02:00",
+            "date_modified": "2021-09-25T20:30:40+02:00"
+        },
+        {
             "id": "https://zartijenni.de/mein-abnehmweg-teil-2/",
             "url": "https://zartijenni.de/mein-abnehmweg-teil-2/",
             "title": "Mein Abnehm-Weg Teil 2",
@@ -147,21 +162,6 @@
             ],
             "date_published": "2021-08-25T10:25:34+02:00",
             "date_modified": "2021-08-25T19:01:47+02:00"
-        },
-        {
-            "id": "https://zartijenni.de/wochenendtrip/",
-            "url": "https://zartijenni.de/wochenendtrip/",
-            "title": "Wochenendtrip",
-            "summary": "Einfach mal abhauen - von allen Ängsten und Sorgen, dem Alltag und&hellip;",
-            "content_html": "<p><span style=\"font-weight: 400;\">Einfach mal abhauen - von allen Ängsten und Sorgen, dem Alltag und allen Gedanken … wir sind über das letzte Wochenende nach Freiburg abgehauen. Freundlicherweise durften wir mit einer befreundeten Familie in deren Elternwohnung (Eltern im Urlaub) übernachten und konnten uns dort wie in einer AirBnB Ferienwohnung fühlen. Nur noch besser! Es war eine sehr schöne Erfahrung und ein tolles gemeinsames Erlebnis - auch für unsere Kinder. Freitags schnupperten wir nach einer sehr angenehmen Anfahrt erste Freiburger Luft, waren jedoch recht schnell müde und die Kinder entsprechend der Aufregung sehr aufgedreht … schliefen dann mal gegen 22 Uhr … </span></p>\n<p><span style=\"font-weight: 400;\">Am Samstag frühstückten wir gemütlich und verbrachten den halben Tag am See. Der Moosweiher ist echt zu empfehlen. Geeignet für Kinder, flache Stellen und ein Spielplatz daneben. Außerdem genug Schattenplätze und Wiese um den Weiher. Die Kinder hatten Spaß und sogar mit Essen kam man sich am nahe gelegenen italienischen Restaurant versorgen. Für die Sportlichen gibt es beispielsweise eine Halfpipe und einen Minigolfplatz.</span></p>\n<p><span style=\"font-weight: 400;\">Den restlichen Tag verbrachten wir uns akklimatisierend von der enormen Hitze (hallo, Kreislauf und Kopfschmerzen) in der Wohnung, aßen gut und schauten, dass die Kinder nicht komplett durchdrehten ;-) Diesen Abend schliefen die Kleinen etwas früher ein…</span></p>\n<p><span style=\"font-weight: 400;\">Am Sonntag frühstückten wir gemütlich und packten auch schon wieder alles zusammen. Eine weitere angenehme Autofahrt mit nur ein wenig stockendem Verkehr und viel schöner Landschaft stand uns bevor. Zuhause angekommen begann dann zum Glück erst der Regen inklusive Gewitter.</span></p>\n<p><span style=\"font-weight: 400;\">Eine neue Erfahrung. Ein schönes Wochenende mit lieben Freunden. Mal was anderes sehen. Den Alltag vergessen. Ein kleiner Vorgeschmack auf unseren Urlaub im September. Unser kleiner Wochenendtrip. </span></p>",
-            "author": {
-                "name": "Jennifer Dridiger"
-            },
-            "tags": [
-                   "Reisewelt"
-            ],
-            "date_published": "2021-08-22T12:17:51+02:00",
-            "date_modified": "2021-08-22T12:17:51+02:00"
         }
     ]
 }
