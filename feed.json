@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://zartijenni.de/mein-abnehm-weg-teil-3/",
+            "url": "https://zartijenni.de/mein-abnehm-weg-teil-3/",
+            "title": "Mein Abnehm-Weg Teil 3",
+            "summary": "Die nächsten Monate machte ich mir um mein Gewicht keine großen Gedanken.",
+            "content_html": "<p><span style=\"font-weight: 400;\">Die nächsten Monate machte ich mir um mein Gewicht keine großen Gedanken. Andere Dinge hatten Priorität. Als mein Kind 10 Monate als war, beschloss ich, dass sich etwas ändern muss in meinem Leben. Zufälligerweise dann fast zeitgleich begann ich im Januar 2019 mit einer Therapie, um die traumatische Geburt zu verarbeiten, und startete meinen Abnehmweg, der bis heute geht. Nie hätte ich damals gedacht, wie weit ich es mal schaffen würde. Angetrieben von dem Gedanken an ein zweites Kind und dass ich nicht mir die Schuld geben möchte, sollte in der Schwangerschaft wieder etwas schief laufen, wollte ich es wenigstens versuchen abzunehmen und auf einen halbwegs annehmbaren BMI und raus aus dem Adipositas-Bereich zu kommen. Definitiv wollte ich nicht mehr mit einem Übergewicht in eine Schwangerschaft starten. </span></p>\n<p><span style=\"font-weight: 400;\">Ich begann damit meinen Süßigkeitenkonsum zu reduzieren bzw. gar keine Süßwaren mehr daheim zu haben. Mit einem Mann, der leidenschaftlich gerne isst und immer wieder gerne neue Lebensmittel probiert und auch nicht einfach so am Süßigkeiten-Regal vorbeigehen kann, ist das echt schwer. Schnell war der Einbauschrank direkt unter der Küchendecke, zu dem ich nur über umständliches Klettern gelange, zu seinem Lager auserkoren worden. Tatsächlich vergaß ich ab und an sogar diesen Schrank und kletterte nur im äußersten Notfall dort hinauf. Immer mehr achtete ich aufs Essen und begann noch mehr Gemüse zu kochen. Motiviert hat mich zusätzlich mein Kind, das ja auch so langsam mit der Beikost angefangen hatte und dem ich ein gutes Vorbild sein wollte. Außerdem wollte ich sichergehen, dass immer gesundes Essen für uns auf dem Tisch steht. Ab und zu ging ich zusätzlich spazieren. Aber nicht so, dass es erwähnenswert wäre. Erst im Spätsommer 2019 begann ich, immer mehr Laufeinheiten (Walken, schnelles Gehen, sowas in die Richtung, total unprofessionell, ohne extra Sportklamotten, ohne Stöcke) pro Woche unterzubringen. Die ersten Kilos purzelten schnell und auch mein Hausarzt war begeistert. Ich wagte es kaum, mich richtig zu freuen - nahm ich doch früher auch schon hin und wieder 3-4 kg ab und auch schnell wieder zu. Doch seltsamerweise gab es diesmal kein Zurück. Es ging immer so weiter. </span></p>",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+                   "Gesundheit",
+                   "Gedankenwelt"
+            ],
+            "date_published": "2021-11-15T12:57:05+01:00",
+            "date_modified": "2021-11-15T12:58:04+01:00"
+        },
+        {
             "id": "https://zartijenni.de/urlaub-gebucht/",
             "url": "https://zartijenni.de/urlaub-gebucht/",
             "title": "Urlaub gebucht",
@@ -115,10 +131,11 @@
                 "name": "Jennifer Dridiger"
             },
             "tags": [
+                   "Gesundheit",
                    "Gedankenwelt"
             ],
             "date_published": "2021-09-25T19:50:22+02:00",
-            "date_modified": "2021-10-06T13:43:16+02:00"
+            "date_modified": "2021-11-15T12:58:19+01:00"
         },
         {
             "id": "https://zartijenni.de/ein-jahr-unterschied/",
@@ -146,26 +163,11 @@
                 "name": "Jennifer Dridiger"
             },
             "tags": [
+                   "Gesundheit",
                    "Gedankenwelt"
             ],
             "date_published": "2021-09-16T10:17:46+02:00",
-            "date_modified": "2021-10-06T13:44:46+02:00"
-        },
-        {
-            "id": "https://zartijenni.de/kleiner-urlaub/",
-            "url": "https://zartijenni.de/kleiner-urlaub/",
-            "title": "kleiner Urlaub",
-            "summary": "Bald ist es soweit: Wir fahren für eine Woche ins schöne Saarland.",
-            "content_html": "<p><span style=\"font-weight: 400;\">Bald ist es soweit: Wir fahren für eine Woche ins schöne Saarland. Wäsche wird gewaschen. Eine Packliste wird geschrieben. Koffer werden gepackt. Kleidungsstücke von links nach rechts und wieder zurück geräumt. Die Medikamententasche wird gepackt. Ebenso die Kosmetiktasche und eine Tasche für trockene Lebensmittel. Der Koffer fürs Kind ist schon fertig und es ist nicht mehr viel, woran zu denken ist. Pläne für Ausflüge und Unternehmungen vor Ort werden geschmiedet und ich freue mich darauf schon von der Reise berichten zu können. Das wird der erste richtige Urlaub - neben dem Wochenendtrip im August -, in dem das Kind richtig sprechen kann. Als wir vor einem Jahr im Saarland waren, kann ich mich nur noch an Zwei- oder Dreiwortsätze erinnern. Wie sich in einem Jahr ein Menschenkind doch entwickeln kann. Immer wieder faszinierend. Jetzt können wir schon richtig über die Reise und den Urlaub sprechen. Ich freue mich auf diese kleine Auszeit und versuche sie so gut es geht zu genießen!</span></p>",
-            "author": {
-                "name": "Jennifer Dridiger"
-            },
-            "tags": [
-                   "Reisewelt",
-                   "Gedankenwelt"
-            ],
-            "date_published": "2021-09-15T20:25:47+02:00",
-            "date_modified": "2021-10-06T13:46:12+02:00"
+            "date_modified": "2021-11-15T12:58:29+01:00"
         }
     ]
 }
