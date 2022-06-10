@@ -3,12 +3,37 @@
     <title>Zarti Jenni - bunte Welt </title>
     <link href="https://zartijenni.de/feed.xml" rel="self" />
     <link href="https://zartijenni.de" />
-    <updated>2022-05-16T13:25:15+02:00</updated>
+    <updated>2022-06-10T22:03:53+02:00</updated>
     <author>
         <name>Jennifer Dridiger</name>
     </author>
     <id>https://zartijenni.de</id>
 
+    <entry>
+        <title>Rügen - Reise</title>
+        <author>
+            <name>Jennifer Dridiger</name>
+        </author>
+        <link href="https://zartijenni.de/ruegen-reise/"/>
+        <id>https://zartijenni.de/ruegen-reise/</id>
+            <category term="Reisewelt"/>
+
+        <updated>2022-06-10T22:03:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Freitag, 10.06.2022 Am 1. November 2021 hatte ich es angekündigt: Nun ist&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Freitag, 10.06.2022</strong></p>
+<p><span style="font-weight: 400;">Am 1. November 2021 hatte ich es angekündigt: Nun ist es soweit! Wir haben unsere Rügen-Reise angetreten. Heute Zwischenstopp in Potsdam. Morgen fahren wir frisch ausgeruht nach Rügen weiter. </span></p>
+<p><span style="font-weight: 400;">Das letzte Mal ans Meer gefahren sind wir vor 3 Jahren…so lange her. Damals war unser Sohn gerade erst ein Kleinkind geworden - irgendwie noch ein Baby -  und konnte noch nicht frei laufen. Heute plappert er die ganze Autofahrt über. Stellt Fragen, kommentiert Autos und Schilder. Damals schlief er auf der Autofahrt immer mal wieder. Heute verlangt er permanent Essen, fragt, ob wir auch wirklich an den Strand und ans Meer fahren und strahlt über das ganze Gesicht, wenn wir bejahen.</span></p>
+<p><span style="font-weight: 400;">Wir haben uns für eine Nacht in Potsdam entschieden und sind glücklich damit. So konnten wir heute noch ein bisschen durchatmen, uns bewegen und noch etwas “sehen”. Morgen können wir ausschlafen, gemütlich frühstücken und dann entspannt den Rest der Strecke angehen. Dann endlich sind wir am Meer! Ostsee, wir kommen!</span></p>
+<p><br><br></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Erste Wohnmobil-Reise</title>
         <author>
@@ -35,29 +60,6 @@
 <p><span style="font-weight: 400;">Viele Abenteuer warteten in den 3 Tagen auf uns. In der nächsten Nacht hörte man nur noch ab und an den Regen. Mehr zu hören war der Wind der um unser Wohnmobil säuselte. Am nächsten Tag wachten wir mit einem Blick auf eine Schneelandschaft auf. Drin war unser dafür kuschelig warm. Auf dem Hof durften wir Eier sortieren und beim Kühe melken helfen. Ein schöner Spaziergang durfte auch nicht fehlen. Nach der dritten Nacht gab es noch mehr Schnee und da wir darauf vorbereitet waren, vergnügten wir uns in der schönen weißen Schneepracht. </span></p>
 <p><span style="font-weight: 400;">Am letzten Tag vor der Abfahrt kam dann wieder die Sonne raus und ließ den Schnee langsam schmelzen. Wir machten das Wohnmobil von innen und außen sauber. Alle halfen tatkräftig mit. Dann fuhren wir wieder gen Heimat und gaben das Wohnmobil seinem Besitzer zurück.</span></p>
 <p><span style="font-weight: 400;">Mit vielen Eindrücken, Erfahrungen und Erkenntnissen sind wir wieder daheim angekommen.</span></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Wohnmobilreise</title>
-        <author>
-            <name>Jennifer Dridiger</name>
-        </author>
-        <link href="https://zartijenni.de/wohnmobilreise/"/>
-        <id>https://zartijenni.de/wohnmobilreise/</id>
-            <category term="Reisewelt"/>
-
-        <updated>2022-04-28T08:47:25+02:00</updated>
-            <summary>
-                <![CDATA[
-                    …oder…zwischendurch mal schnell wegfahren… …wir haben's nach viel Recherche getan…wir sind über&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><span style="font-weight: 400;">…oder…zwischendurch mal schnell wegfahren…</span></p>
-<p> </p>
-<p><span style="font-weight: 400;">…wir haben's nach viel Recherche getan…wir sind über ein verlängertes Wochenende mit einem gemieteten Wohnmobil einfach losgefahren…Mindestens ein Test muss sein, bevor wir uns ein solches Gefährt kaufen. Ein Ziel hatten wir vor Augen…ein Stellplatz auf einem Bauernhof mit Stromanschluss und Wasser/Abwasser. Liebe Freunde und langjährige Camper haben uns diesen tollen Tipp gegeben. So konnten wir ohne lang und weit fahren zu müssen, Autobahn, Landstraße und Stadtfahrten testen und wie das Leben in einem Wohnmobil so ist. Und wir haben uns natürlich das beste Wochenende im Frühling ausgesucht - mit Wintereinbruch… :-D </span></p>
             ]]>
         </content>
     </entry>

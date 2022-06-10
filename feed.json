@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://zartijenni.de/ruegen-reise/",
+            "url": "https://zartijenni.de/ruegen-reise/",
+            "title": "Rügen - Reise",
+            "summary": "Freitag, 10.06.2022 Am 1. November 2021 hatte ich es angekündigt: Nun ist&hellip;",
+            "content_html": "<p><strong>Freitag, 10.06.2022</strong></p>\n<p><span style=\"font-weight: 400;\">Am 1. November 2021 hatte ich es angekündigt: Nun ist es soweit! Wir haben unsere Rügen-Reise angetreten. Heute Zwischenstopp in Potsdam. Morgen fahren wir frisch ausgeruht nach Rügen weiter. </span></p>\n<p><span style=\"font-weight: 400;\">Das letzte Mal ans Meer gefahren sind wir vor 3 Jahren…so lange her. Damals war unser Sohn gerade erst ein Kleinkind geworden - irgendwie noch ein Baby -  und konnte noch nicht frei laufen. Heute plappert er die ganze Autofahrt über. Stellt Fragen, kommentiert Autos und Schilder. Damals schlief er auf der Autofahrt immer mal wieder. Heute verlangt er permanent Essen, fragt, ob wir auch wirklich an den Strand und ans Meer fahren und strahlt über das ganze Gesicht, wenn wir bejahen.</span></p>\n<p><span style=\"font-weight: 400;\">Wir haben uns für eine Nacht in Potsdam entschieden und sind glücklich damit. So konnten wir heute noch ein bisschen durchatmen, uns bewegen und noch etwas “sehen”. Morgen können wir ausschlafen, gemütlich frühstücken und dann entspannt den Rest der Strecke angehen. Dann endlich sind wir am Meer! Ostsee, wir kommen!</span></p>\n<p><br><br></p>",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+                   "Reisewelt"
+            ],
+            "date_published": "2022-06-10T22:03:53+02:00",
+            "date_modified": "2022-06-10T22:03:53+02:00"
+        },
+        {
             "id": "https://zartijenni.de/erste-wohnmobil-reise/",
             "url": "https://zartijenni.de/erste-wohnmobil-reise/",
             "title": "Erste Wohnmobil-Reise",
@@ -25,21 +40,6 @@
             ],
             "date_published": "2022-05-16T13:23:48+02:00",
             "date_modified": "2022-05-16T13:23:48+02:00"
-        },
-        {
-            "id": "https://zartijenni.de/wohnmobilreise/",
-            "url": "https://zartijenni.de/wohnmobilreise/",
-            "title": "Wohnmobilreise",
-            "summary": "…oder…zwischendurch mal schnell wegfahren… …wir haben's nach viel Recherche getan…wir sind über&hellip;",
-            "content_html": "<p><span style=\"font-weight: 400;\">…oder…zwischendurch mal schnell wegfahren…</span></p>\n<p> </p>\n<p><span style=\"font-weight: 400;\">…wir haben's nach viel Recherche getan…wir sind über ein verlängertes Wochenende mit einem gemieteten Wohnmobil einfach losgefahren…Mindestens ein Test muss sein, bevor wir uns ein solches Gefährt kaufen. Ein Ziel hatten wir vor Augen…ein Stellplatz auf einem Bauernhof mit Stromanschluss und Wasser/Abwasser. Liebe Freunde und langjährige Camper haben uns diesen tollen Tipp gegeben. So konnten wir ohne lang und weit fahren zu müssen, Autobahn, Landstraße und Stadtfahrten testen und wie das Leben in einem Wohnmobil so ist. Und wir haben uns natürlich das beste Wochenende im Frühling ausgesucht - mit Wintereinbruch… :-D </span></p>",
-            "author": {
-                "name": "Jennifer Dridiger"
-            },
-            "tags": [
-                   "Reisewelt"
-            ],
-            "date_published": "2022-04-28T08:47:25+02:00",
-            "date_modified": "2022-04-28T08:47:25+02:00"
         },
         {
             "id": "https://zartijenni.de/geburtstag/",
