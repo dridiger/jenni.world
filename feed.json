@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://zartijenni.de/schreckmoment/",
+            "url": "https://zartijenni.de/schreckmoment/",
+            "title": "Schreckmoment",
+            "summary": "Gestern hatten wir mit dir wieder einen Schreckmoment. Zum Glück sind solche&hellip;",
+            "content_html": "<p>Gestern hatten wir mit dir wieder einen Schreckmoment. Zum Glück sind solche Momente selten. Ich kann sie an einer Hand abzählen...<br><br>Geburt und die Tage danach - Fall für sich.<br>2 Monate - Husten, keine Luft, Schaum vorm Mund.<br>2,5 Jahre - ca. 20 Mal speien innerhalb kurzer Zeit, apathisch, wegschlafen vor Erschöpfung, Lebensmittelvergiftung.<br>3 Jahre - mehrere Finger auf Herdplatte verbrannt.<br>3,5 Jahre - blauer Fleck mit anschließend verdammt riesiger Beule an der Stirn.<br><br>Diverse andere Prellungen, blaue Flecken und Veilchen lass ich jetzt mal weg. Die gehören irgendwie \"dazu\".<br><br>Dann kam gestern. Du bist blöd auf den Rücken gefallen. Hast dich aufgerappelt und bist auf die auf die Knie. Du wolltest losweinen vor Schreck. Hast uns verzweifelt angeschaut...du konntest nicht weinen, weil du so auf den Rücken gefallen bist, dass du keine Luft mehr bekamst. Die Zeit bis du wieder Luft geholt hast, war grausam für mich. Ich werde nicht schnell panisch, wenn es um dich geht. Meistens kann ich dir in solchen Situationen Ruhe vermitteln. Aber das war selbst mir zuviel. Dich so zu sehen. Zum Glück war dein Papa dieses Mal gefasster.<br><br>Und auch wenn ich weiß, dass es sinnvoller ist ruhig zu bleiben und Sicherheit auszustrahlen...ich kann nicht immer stark sein!<br><br>Und was waren eure Schreckmomente?</p>",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+                   "Gedankenwelt"
+            ],
+            "date_published": "2023-02-12T18:24:22+01:00",
+            "date_modified": "2023-02-12T18:24:22+01:00"
+        },
+        {
             "id": "https://zartijenni.de/was-bewegung-so-ausloest/",
             "url": "https://zartijenni.de/was-bewegung-so-ausloest/",
             "title": "Was Bewegung so auslöst",
@@ -149,21 +164,6 @@
             ],
             "date_published": "2023-01-16T11:28:00+01:00",
             "date_modified": "2023-01-25T11:29:08+01:00"
-        },
-        {
-            "id": "https://zartijenni.de/glueckliche-zufaelle-oder-steckt-mehr-dahinter/",
-            "url": "https://zartijenni.de/glueckliche-zufaelle-oder-steckt-mehr-dahinter/",
-            "title": "Glückliche Zufälle oder steckt mehr dahinter?",
-            "summary": "Ja, ich glaube daran. Ich glaube, dass alles einen Sinn hat. Nun&hellip;",
-            "content_html": "<p><span style=\"font-weight: 400;\">Ja, ich glaube daran. Ich glaube, dass alles einen Sinn hat. Nun gut, fast alles. Aber ich glaube daran, dass man nicht suchen muss, sondern gefunden wird. Dass alles sich fügen wird. Alle Antennen - Augen und Ohren und Gehirn - müssen auf Empfang sein.</span></p>\n<p><span style=\"font-weight: 400;\">Möglichkeiten werden sich in den Weg stellen.</span></p>\n<p><span style=\"font-weight: 400;\">Du weißt beispielsweise beruflich nicht weiter und siehst kein Licht am Ende des Tunnels? Es wird sich etwas ergeben und mit Sicherheit wird es etwas sein, dass dir Spaß machen und dich auf deinem Weg weiterbringen wird. Das muss nicht sofort oder in den nächsten Wochen passieren. Am ehesten kommt es dann, wenn du dich nicht mehr großartig damit beschäftigst. Dann, wenn du es am wenigsten erwartest. Solange deine Antennen auf Empfang stehen. Dann wirst du Lösungen sehen. </span></p>\n<p><span style=\"font-weight: 400;\">Was ich hier so kryptisch schreibe, hat mit dem heutigen Treffen mit einer lieben Person zu tun. Ein schönes langes Gespräch. Ich liebe tiefsinnige Gespräche. Bei denen man um die Ecke denken und neue Wörter erfinden kann. In denen das Gehirn Purzelbäume schlägt, um tolle Sätze zu bilden. In denen man schlau tut und daher redet und in denen einem dann die einfachsten Wörter nicht einfallen. In den man sein kann, wer man ist und wie man ist.</span></p>\n<p><span style=\"font-weight: 400;\">Und nach diesem Gespräch wurde mir klar, dass mich das alles an die Bücher von John Strelecky - besonders an \"Das Café am Rande der Welt” - erinnert. Strelecky schreibt davon, dass “...Menschen unerwartete Dinge widerfahren” und inwiefern diese Dinge wirklich “unerwartet” passieren oder ob da nicht ein simpler Grund und auch nicht einfach nur glückliche Zufälle dahinterstecken. Sondern, dass diese Dinge unerwartet kommen, genau dann, wenn man sie am dringendsten braucht, weil man genau das gerade tut, was man wirklich gerne macht. </span></p>\n<p><span style=\"font-weight: 400;\">-</span></p>\n<p><span style=\"font-weight: 400;\">-</span></p>\n<p><span style=\"font-weight: 400;\">-</span></p>\n<p><span style=\"font-weight: 400;\">Kennst du John Strelecky und seine Bücher?</span></p>",
-            "author": {
-                "name": "Jennifer Dridiger"
-            },
-            "tags": [
-                   "Gedankenwelt"
-            ],
-            "date_published": "2023-01-14T11:27:00+01:00",
-            "date_modified": "2023-01-25T11:29:14+01:00"
         }
     ]
 }
