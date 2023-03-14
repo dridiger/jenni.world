@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Zarti Jenni - bunte Welt </title>
+    <title>zarti_jenni - Die bunte Welt der Jennifer</title>
     <link href="https://zartijenni.de/feed.xml" rel="self" />
     <link href="https://zartijenni.de" />
-    <updated>2023-03-14T21:41:01+01:00</updated>
+    <updated>2023-03-14T21:42:15+01:00</updated>
     <author>
         <name>Jennifer Dridiger</name>
     </author>
@@ -60,7 +60,7 @@
         <id>https://zartijenni.de/buchveroeffentlichung-und-internationaler-tag-der-frau/</id>
             <category term="Gedankenwelt"/>
 
-        <updated>2023-03-14T21:41:01+01:00</updated>
+        <updated>2023-03-14T21:42:15+01:00</updated>
             <summary>
                 <![CDATA[
                     Da ist es also nun. Mein erstes Buch. Nie hätte ich gedacht,&hellip;
