@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://zartijenni.de/leb-dich-frei/",
+            "url": "https://zartijenni.de/leb-dich-frei/",
+            "title": "Leb dich frei",
+            "summary": "Leb dich frei von Erwartungen anderer an dich. Leb dich frei von&hellip;",
+            "content_html": "<p>Leb dich frei von Erwartungen anderer an dich.<br>Leb dich frei von toxischen Beziehungen.<br>Leb dich frei von deinen negativen Glaubenssätzen.<br><br>Liebe das Leben.<br>Koste es aus.<br>Nimm dich an.<br><br>Rieche das Leben.<br>Sieh das Leben.<br>Höre das Leben.<br><br>Tanze, springe, hüpfe.<br>Egal, ob dich jemand sieht.<br>Egal, was andere denken.<br><br>Fühl dich frei.<br>Lach dich frei.<br>Leb dich frei.<br><br>Liebe das Leben.<br>Liebe dich.<br>-<br>-<br>-<br>Heute schon getanzt?<br>Gelacht?<br>Gelebt?</p>",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+                   "Gesundheit",
+                   "Gedankenwelt"
+            ],
+            "date_published": "2023-03-18T13:04:00+01:00",
+            "date_modified": "2023-03-22T13:05:20+01:00"
+        },
+        {
             "id": "https://zartijenni.de/ich-sehe-dich/",
             "url": "https://zartijenni.de/ich-sehe-dich/",
             "title": "Ich sehe dich",
@@ -145,22 +161,6 @@
             ],
             "date_published": "2023-02-18T13:29:00+01:00",
             "date_modified": "2023-03-14T13:30:37+01:00"
-        },
-        {
-            "id": "https://zartijenni.de/14022008-14022023-valentinstag/",
-            "url": "https://zartijenni.de/14022008-14022023-valentinstag/",
-            "title": "14.02.2008 - 14.02.2023 - Valentinstag",
-            "summary": "Der 14. Februar also. Valentinstag. Heute vor 15 Jahren war mein schlimmster&hellip;",
-            "content_html": "<p>Der 14. Februar also. Valentinstag. Heute vor 15 Jahren war mein schlimmster Valentinstag. Mit meinem damaligen Freund hatte ich mich verkracht und es deutete sich bereits eine Trennung an. Wir gingen nach dem Streit auf öffentlicher Straße getrennte Wege. Ich - eigentlich näher an meinem elterlichen Zuhause dran - machte mich auf den Weg zu meiner damals engsten Freundin. Um mich auszuheulen, Trost zu finden und abzulenken. Später als geplant habe ich mich gegen 22/22:30 Uhr auf den Heimweg gemacht. Ich wurde verfolgt und ... den Rest erspare ich euch. Weil Details unwichtig sind. Bereits die Verfolgung inkl. Ansprechen und Belästigung sind ein No-Go. Und alles weitere sowieso...<br><br>Ich danke meinem Vater, der zu dieser späten Stunde noch wach war, mich wie immer begrüßt hat, obwohl er wusste, dass ich soeben noch 20 Minuten im Polizei Kastenwagen vor der Haustür saß. Er hat mir die Zeit gegeben, alles am nächsten Tag zu erklären, auch warum mich die Polizei heimgefahren hat...<br><br>15 Jahre ist das nun her. Und ich denke jeden verdammten Valentinstag dran.</p>",
-            "author": {
-                "name": "Jennifer Dridiger"
-            },
-            "tags": [
-                   "Gesundheit",
-                   "Gedankenwelt"
-            ],
-            "date_published": "2023-02-14T13:28:00+01:00",
-            "date_modified": "2023-03-14T13:28:27+01:00"
         }
     ]
 }
