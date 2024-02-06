@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "zarti_jenni - Die bunte Welt der Jennifer",
+    "title": "zarti_jenni",
     "description": "",
     "home_page_url": "https://zartijenni.de",
     "feed_url": "https://zartijenni.de/feed.json",
@@ -20,8 +20,8 @@
                 "name": "Jennifer Dridiger"
             },
             "tags": [
-                   "Neurodivergenz",
-                   "Gedankenwelt"
+                   "Gedankenwelt",
+                   "AuDHS"
             ],
             "date_published": "2023-05-31T11:55:00+02:00",
             "date_modified": "2023-06-01T11:55:54+02:00"
@@ -36,8 +36,8 @@
                 "name": "Jennifer Dridiger"
             },
             "tags": [
-                   "Neurodivergenz",
-                   "Gedankenwelt"
+                   "Gedankenwelt",
+                   "AuDHS"
             ],
             "date_published": "2023-05-28T11:54:00+02:00",
             "date_modified": "2023-06-01T11:54:59+02:00"
@@ -52,8 +52,8 @@
                 "name": "Jennifer Dridiger"
             },
             "tags": [
-                   "Neurodivergenz",
-                   "Gedankenwelt"
+                   "Gedankenwelt",
+                   "AuDHS"
             ],
             "date_published": "2023-05-25T11:53:00+02:00",
             "date_modified": "2023-06-01T11:54:07+02:00"
@@ -83,8 +83,8 @@
                 "name": "Jennifer Dridiger"
             },
             "tags": [
-                   "Neurodivergenz",
-                   "Gedankenwelt"
+                   "Gedankenwelt",
+                   "AuDHS"
             ],
             "date_published": "2023-05-17T11:51:00+02:00",
             "date_modified": "2023-06-01T11:52:01+02:00"

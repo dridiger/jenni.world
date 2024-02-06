@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>zarti_jenni - Die bunte Welt der Jennifer</title>
+    <title>zarti_jenni</title>
     <link href="https://zartijenni.de/feed.xml" rel="self" />
     <link href="https://zartijenni.de" />
     <updated>2023-06-01T11:55:54+02:00</updated>
@@ -16,8 +16,8 @@
         </author>
         <link href="https://zartijenni.de/angststoerungautismuskonzert-wie-geht-das/"/>
         <id>https://zartijenni.de/angststoerungautismuskonzert-wie-geht-das/</id>
-            <category term="Neurodivergenz"/>
             <category term="Gedankenwelt"/>
+            <category term="AuDHS"/>
 
         <updated>2023-06-01T11:55:54+02:00</updated>
             <summary>
@@ -38,8 +38,8 @@
         </author>
         <link href="https://zartijenni.de/leb/"/>
         <id>https://zartijenni.de/leb/</id>
-            <category term="Neurodivergenz"/>
             <category term="Gedankenwelt"/>
+            <category term="AuDHS"/>
 
         <updated>2023-06-01T11:54:59+02:00</updated>
             <summary>
@@ -60,8 +60,8 @@
         </author>
         <link href="https://zartijenni.de/hallo-gehirn/"/>
         <id>https://zartijenni.de/hallo-gehirn/</id>
-            <category term="Neurodivergenz"/>
             <category term="Gedankenwelt"/>
+            <category term="AuDHS"/>
 
         <updated>2023-06-01T11:54:07+02:00</updated>
             <summary>
@@ -103,8 +103,8 @@
         </author>
         <link href="https://zartijenni.de/von-einem-ins-andere-extrem-jenni-in-ihrer-reinform/"/>
         <id>https://zartijenni.de/von-einem-ins-andere-extrem-jenni-in-ihrer-reinform/</id>
-            <category term="Neurodivergenz"/>
             <category term="Gedankenwelt"/>
+            <category term="AuDHS"/>
 
         <updated>2023-06-01T11:52:01+02:00</updated>
             <summary>
